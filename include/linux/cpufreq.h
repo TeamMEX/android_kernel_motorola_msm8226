@@ -382,7 +382,6 @@ extern struct cpufreq_governor cpufreq_gov_ondemandplus;
 extern struct cpufreq_governor cpufreq_gov_intelliactive;
 #define CPUFREQ_DEFAULT_GOVERNOR        (&cpufreq_gov_intelliactive)
 
->>>>>>> e304034... cpufreq: intelliactive: initial coding and introduction!
 #endif
 
 
